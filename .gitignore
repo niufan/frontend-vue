@@ -1,0 +1,7 @@
+# 忽略idea项目文件
+.idea
+.idea/*.*
+
+# node 安装的模块
+node_modules
+node_modules/*.*
