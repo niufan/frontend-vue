@@ -1,7 +1,11 @@
-# 忽略idea项目文件
+# 忽略 idea 项目文件
 .idea
 .idea/*.*
 
-# node 安装的模块
+# 忽略 node 安装的模块
 node_modules
 node_modules/*.*
+
+# 忽略 dist 文件
+dist
+dist/*.*
